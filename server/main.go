@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/KwangWoongLee/go_server/handler"
+	"github.com/KwangWoongLee/go_webserver/handler"
 
 	"github.com/gin-gonic/gin"
 )

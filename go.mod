@@ -1,4 +1,4 @@
-module github.com/KwangWoongLee/go_server
+module github.com/KwangWoongLee/go_webserver
 
 go 1.18
 
